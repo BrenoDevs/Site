@@ -1,0 +1,76 @@
+/*=================================Seção tags================================*/
+
+h1{
+    font-family: "Sacramento";
+    margin-top: 0;
+    font-size: 562.5%;
+    color: #66BFBF;
+    line-height: 2;
+
+}
+h2{
+    font-family: "Montserrat";
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+    padding-top: 5%;
+ 
+    
+}
+body{
+    margin: 0;
+    text-align: center;
+}
+.h3{
+    color: #66BFBF;
+    font-family: "Montserrat";
+
+}
+
+p{
+   line-height: 2;
+}
+
+/*==================================Seção classes==============================*/
+.top-container{
+background-color: #03346E;
+position: relative;
+padding: 100px;
+
+}
+
+.celebro1{
+    position: absolute;
+    right: 20%;
+    top: 50px;
+}
+.celebro2{
+    position: absolute;
+    left: 20%;
+    bottom: 50px;
+
+}
+
+.skill-row{
+    text-align: left;
+    line-height: 2;
+    margin: 100px auto 10px auto;
+    width: 50%;
+
+}
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chilli-img{
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+
+.mft{
+    width: 10%;
+}
